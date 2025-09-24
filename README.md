@@ -20,8 +20,8 @@ This project reproduces the design provided in the `/design` folder and uses the
 
 ## Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/devEbuka/Testimonials-Grid
+- Live Site URL: https://devebuka.github.io/Testimonials-Grid/
 - Challenge: https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7
 
 ## My process
